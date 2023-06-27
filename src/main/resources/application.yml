@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: project-lol
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/project-lol
